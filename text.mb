@@ -22,7 +22,12 @@
 > **git diff**
 
 > *Создание новой ветки* - git branch branch name
+или Git checkout -b new_branch
 
 > *Git branch* -Показывает список веток
 
 > *Git branch -d branch name*  - удаляет ветку 
+
+>git merge -branch name
+
+ Совмещает текущую ветку 
